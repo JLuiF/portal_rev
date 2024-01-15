@@ -24,7 +24,7 @@
                     <section class="container text-center" id="paginated-content">
                         <div class="container_card">
                             <div class="row mx-auto d-flex justify-content-center">
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/ria.jpg">
@@ -49,7 +49,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/comunicacion.jpg">
@@ -74,7 +74,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["3",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["3",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/posgrado.jpg">
@@ -99,7 +99,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/derecho.jpg">
@@ -124,7 +124,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/derecho_pacha.jpg">
@@ -149,7 +149,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/derecho_ambiental.jpg">
@@ -174,7 +174,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/trabajosyf.jpg">
@@ -199,7 +199,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/bovinos_ovinos.jpg">
@@ -224,7 +224,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/allpaka.jpg">
@@ -249,7 +249,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/semestre_economico.jpg">
@@ -274,7 +274,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/taypi_arqui.jpg">
@@ -299,7 +299,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/educa_ciencias_sociales.jpg">
@@ -324,7 +324,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/educa_innova_tecno.jpg">
@@ -349,7 +349,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/educa_ciencias_naturales.jpg">
@@ -374,7 +374,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/muhumchik.jpg">
@@ -399,7 +399,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/inves_intercul.jpg">
@@ -424,7 +424,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/cues_sociologia.jpg">
@@ -449,7 +449,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/inves_empresariales.jpg">
@@ -474,7 +474,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/inves_gestion_finanzas.jpg">
@@ -499,7 +499,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["5",""]'>
+                  <div class="col-auto mb-4 card-item" data-tema='["5",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/ciencia_ing_sistemas.jpg">
@@ -524,7 +524,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                      <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/rev_ciencias_sociales.jpg">
@@ -549,7 +549,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
+                   <div class="col-auto mb-4 card-item" data-tema='["8",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/allin_quilkay.jpg">
@@ -574,7 +574,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["7",""]'>
+                       <div class="col-auto mb-4 card-item" data-tema='["7",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/estomatologica.jpg">
@@ -599,7 +599,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
+                      <div class="col-auto mb-4 card-item" data-tema='["1",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/ciencia_agraria.jpg">
@@ -624,7 +624,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["7",""]'>
+                         <div class="col-auto mb-4 card-item" data-tema='["7",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/nutricion_salud.jpg">
@@ -649,7 +649,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["3",""]'>
+                    <div class="col-auto mb-4 card-item" data-tema='["3",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/geociencia.jpg">
@@ -674,7 +674,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                                    <div class="col-auto mb-4 card-item" data-tema='["5",""]'>
+                         <div class="col-auto mb-4 card-item" data-tema='["5",""]'>
                                         <div class="card card-flip h-100 border border-primary">
                                             <div class="card_img card-front text-white bg-warning">
                                                 <img src="<?= base_url('public/frontend'); ?>/img/portadas/kipu.jpg">
@@ -699,7 +699,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                                            </div>
+                     </div>
                         </div>
                     </section>
                 </div>
